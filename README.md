@@ -5,7 +5,7 @@
 
 Helooo! :rocket: Welcome to my profile. 
 - :art: I’m currently working with software development.
-- :books: I’m currently learning about the fullstack Javascript(NodeJs, React and React native).
+- :books: I’m currently learning about the stack Javascript(NodeJs, React and React native).
 - :green_heart: And I also like to listen good stories.
 
 
