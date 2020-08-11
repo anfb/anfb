@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/adriely.nara@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriely.nara@gmail.com)](mailto:adriely.nara@gmail.com)
 
 Helooo! :rocket: Welcome to my profile. 
-- 🔭 I’m currently working with software development.
-- 🌱 I’m currently learning about the fullstack Javascript(NodeJs, React and React native)
-- 😄 And I also like to listen good stories
+- :art: I’m currently working with software development.
+- :books: I’m currently learning about the fullstack Javascript(NodeJs, React and React native)
+- :green_heart: And I also like to listen good stories
 
 
 <!--
