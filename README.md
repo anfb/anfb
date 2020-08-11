@@ -1,7 +1,7 @@
 # Adriely Barbosa
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adriely%20Barbosa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielynara/)](https://www.linkedin.com/in/adrielynara/)
-[![Gmail Badge](https://img.shields.io/badge/adriely.nara@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriely.nara@gmail.com)](mailto:adriely.nara@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Adriely%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielynara/)](https://www.linkedin.com/in/adrielynara/)
+[![Gmail Badge](https://img.shields.io/badge/adriely.nara@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriely.nara@gmail.com)](mailto:adriely.nara@gmail.com)
 
 Helooo! :rocket: Welcome to my profile. 
 - :art: I’m currently working with software development.
