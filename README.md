@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/adriely.nara@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriely.nara@gmail.com)](mailto:adriely.nara@gmail.com)
 
 Helooo! :rocket: Welcome to my profile. 
-- :art: I have worked with projects built on the plataform #Java, #Node.js and #UWP. I have worked with microservices, building Resful APIs using java (Spring boot) and Node.js(Express.js).
+- :art: I have worked with projects built on the plataform Java, Node.js and UWP - Universal Windows Platform. I have worked with microservices, building Resful APIs using java (Spring boot) and Node.js(Express.js).
 - :books: I’m currently learning about the stack Javascript(NodeJs, React and React native).
 - :green_heart: And I also like to listen good stories.
 
