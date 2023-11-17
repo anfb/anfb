@@ -1,13 +1,9 @@
-# Adriely Barbosa
+# Adriely Barbosa (she | her)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adriely%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielynara/)](https://www.linkedin.com/in/adrielynara/)
 [![Gmail Badge](https://img.shields.io/badge/adriely.nara@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriely.nara@gmail.com)](mailto:adriely.nara@gmail.com)
 
-Helooo! :rocket: Welcome to my profile. 
-- :art: I have worked with projects built on the plataform Java, Node.js and UWP - Universal Windows Platform. I have worked with microservices, building Resful APIs using java (Spring boot) and Node.js(Express.js).
-- :books: I’m currently learning about the stack Javascript(NodeJs, React and React native).
-- :green_heart: And I also like to listen good stories.
-
+Hi! :rocket: 
 
 <!--
 **anfb/anfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
